@@ -1,0 +1,46 @@
+========== HEADER ==========
+.nav__logo
+Merry
+Christmas
+
+.nav__link
+01 Home - 02 Card - 03 Contact Us
+
+.nav__circle
+2
+
+.button
+Send a Card
+
+
+========== HOME ==========
+.home__title
+Last 03 Days To Receive Christmas
+
+.home__description
+Share some Christmas spirit and happiness 
+with these festive cards.
+
+.button
+Send a Christmas Card
+
+========== DAY COUNTER FOR CHRISTMAS ==========
+// Get today's date
+// Get the current month
+// Get the current day of the month
+
+// Calculate the year the next Christmas will be
+
+// Don't calculate the time left if it is Christmas day
+
+// Show missing days
+
+// Show missing hours
+
+// Show missing minutes. Countdown, 0 hours left, show minutes (00:59)
+
+// Show missing seconds. Countdown, 0 hours & 0 minutes left, show seconds (00:00:59)
+
+// Show message on Christmas Day
+
+// Show remaining days & remove Christmas message
